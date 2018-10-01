@@ -16,6 +16,6 @@ class Dog
   end
   
   def self.all 
-    puts @@all.split(/\s/)
+    puts @@all
   end 
 end 
