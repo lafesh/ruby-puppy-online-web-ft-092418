@@ -19,3 +19,5 @@ class Dog
     @@all.each {|name| puts name}
   end 
 end 
+
+winter1992
